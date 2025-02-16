@@ -102,10 +102,12 @@ sections:
               borderRadius: x-large
       - title: 4x
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Salony, które aktywnie korzystają z Booksy Opinions, mogą nawet
+          czterokrotnie zwiększyć zainteresowanie swoimi usługami w ciągu kilku
+          miesięcy współpracy.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
