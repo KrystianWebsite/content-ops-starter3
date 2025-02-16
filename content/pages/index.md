@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Postaw na autentyczne opinie, które zapewnią Ci wysoką pozycję i napływ
+        nowych klientów.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
