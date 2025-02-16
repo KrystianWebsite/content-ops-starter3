@@ -221,11 +221,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Booksy Opinions to szybka droga do zbudowania wiarygodności Twojego
+      salonu. Zespół wirtualnych tajemniczych klientów wystawia autentyczne
+      recenzje, co przekłada się na wyższą pozycję w wyszukiwarce Booksy i
+      rosnącą liczbę rezerwacji. Za pomocą naszego wsparcia możesz w krótkim
+      czasie zwiększyć zainteresowanie ofertą nawet dziesięciokrotnie,
+      przyciągając nowych klientów i budując mocną reputację online.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
