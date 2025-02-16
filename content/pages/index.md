@@ -153,7 +153,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Poznaj ofertę
         altText: ''
         url: /
         showIcon: false
