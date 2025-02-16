@@ -245,7 +245,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Rozwiń swój salon i przyciągnij więcej klientów dzięki opiniom w Booksy
       color: text-primary
       styles:
         self:
