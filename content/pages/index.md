@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Poznaj zalety naszej usugi
     items:
       - type: FeaturedItem
         title: 95%
