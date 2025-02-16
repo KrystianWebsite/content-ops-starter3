@@ -267,7 +267,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Postaw na zaufanie i widoczność w Booksy
       color: text-dark
       styles:
         self:
