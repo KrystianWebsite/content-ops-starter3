@@ -9,7 +9,9 @@ sections:
         nowych klientów.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      ostaw na autentyczne opinie, które zapewnią Ci wysoką pozycję i napływ
+      nowych klientów.
     text: >+
 
       Booksy Opinions to sprawdzony sposób na pozyskanie rzetelnych recenzji
