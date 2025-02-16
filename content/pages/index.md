@@ -10,10 +10,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      Booksy Opinions to sprawdzony sposób na pozyskanie rzetelnych recenzji
+      Twojego salonu. Nasz zespół wirtualnych tajemniczych klientów pisze opinie
+      dopasowane do charakteru Twojej działalności, a każda z nich pomaga Ci
+      osiągnąć lepszą widoczność w Booksy. Wierzymy, że każda pozytywna opinia
+      przekłada się na realne wzrosty rezerwacji, a wysoka średnia ocena buduje
+      zaufanie nowych klientów. Skorzystaj z naszego wsparcia już dziś i pozwól
+      swojemu salonowi wybić się na tle konkurencji.
+
     actions:
       - label: Get started
         altText: ''
