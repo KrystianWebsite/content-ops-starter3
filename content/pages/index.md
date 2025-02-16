@@ -47,7 +47,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Zbuduj reputację swojego salonu na Booksy
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
