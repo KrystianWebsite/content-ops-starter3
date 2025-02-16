@@ -72,10 +72,12 @@ sections:
       - type: FeaturedItem
         title: 95%
         subtitle: Zadowolonych klientów
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Dzięki naszym opiniom, większość salonów notuje wzrost oceny i lepszą
+          widoczność w Booksy. Blisko 95% naszych klientów deklaruje pełne
+          zadowolenie z efektów.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
