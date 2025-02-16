@@ -285,15 +285,6 @@ sections:
       gości. Przekonaj się, jak łatwo możesz przenieść swoją firmę na wyższy
       poziom renomy!
 
-
-      > **Zrób kolejny krok** ku lepszej widoczności w Booksy i rosnącej liczbie
-      zadowolonych klientów. Skorzystaj z naszego wsparcia i ciesz się efektami
-      już po kilku tygodniach.
-
-
-
-
-
     actions: []
     media:
       title: Title of the video
