@@ -21,7 +21,7 @@ sections:
       swojemu salonowi wybić się na tle konkurencji.
 
     actions:
-      - label: Get started
+      - label: Dowiedz się więcej
         altText: ''
         url: /
         showIcon: false
