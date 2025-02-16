@@ -4,13 +4,11 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Postaw na autentyczne opinie, które zapewnią Ci wysoką pozycję i napływ
-        nowych klientów.
+      text: Zbuduj reputację swojego salonu na Booksy
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      ostaw na autentyczne opinie, które zapewnią Ci wysoką pozycję i napływ
+      Postaw na autentyczne opinie, które zapewnią Ci wysoką pozycję i napływ
       nowych klientów.
     text: >+
 
