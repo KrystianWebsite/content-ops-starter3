@@ -277,13 +277,13 @@ sections:
       Odkryj, jak regularne, autentyczne recenzje mogą odmienić oblicze Twojego
       salonu
     text: >+
-      > #### W dzisiejszym świecie klienci szukają potwierdzenia jakości, zanim
-      zdecydują się na konkretną usługę. Nasz zespół wirtualnych tajemniczych
-      klientów pomoże Ci zdobyć wiarygodne recenzje, które w krótkim czasie
-      wzmocnią Twój wizerunek na Booksy. Dzięki temu nie tylko zwiększysz liczbę
-      rezerwacji, ale też stworzysz trwałe zaufanie u nowych i dotychczasowych
-      gości. Przekonaj się, jak łatwo możesz przenieść swoją firmę na wyższy
-      poziom renomy!
+      > <div style="text-align: center">W dzisiejszym świecie klienci szukają
+      potwierdzenia jakości, zanim zdecydują się na konkretną usługę. Nasz
+      zespół wirtualnych tajemniczych klientów pomoże Ci zdobyć wiarygodne
+      recenzje, które w krótkim czasie wzmocnią Twój wizerunek na Booksy. Dzięki
+      temu nie tylko zwiększysz liczbę rezerwacji, ale też stworzysz trwałe
+      zaufanie u nowych i dotychczasowych gości. Przekonaj się, jak łatwo możesz
+      przenieść swoją firmę na wyższy poziom renomy!</div>
 
     actions: []
     media:
