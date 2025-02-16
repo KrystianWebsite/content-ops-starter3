@@ -129,10 +129,12 @@ sections:
         type: FeaturedItem
       - title: '+300'
         subtitle: Opinie miesięcznie
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Nasz zespół wirtualnych klientów generuje setki realnych recenzji
+          każdego miesiąca, pomagając salonom utrzymać stały wzrost
+          zainteresowania i rosnącą renomę.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
