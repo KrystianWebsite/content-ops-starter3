@@ -100,7 +100,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 5x
+      - title: Więcej rezerwacji
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
