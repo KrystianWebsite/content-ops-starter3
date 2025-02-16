@@ -212,7 +212,9 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: >-
+        Zyskaj przewagę, zwiększ liczbę rezerwacji i wyróżnij się wśród
+        konkurencji
       color: text-dark
       styles:
         self:
