@@ -277,7 +277,7 @@ sections:
       Odkryj, jak regularne, autentyczne recenzje mogą odmienić oblicze Twojego
       salonu
     text: >+
-      > W dzisiejszym świecie klienci szukają potwierdzenia jakości, zanim
+      > #### W dzisiejszym świecie klienci szukają potwierdzenia jakości, zanim
       zdecydują się na konkretną usługę. Nasz zespół wirtualnych tajemniczych
       klientów pomoże Ci zdobyć wiarygodne recenzje, które w krótkim czasie
       wzmocnią Twój wizerunek na Booksy. Dzięki temu nie tylko zwiększysz liczbę
