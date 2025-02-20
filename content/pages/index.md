@@ -398,7 +398,7 @@ sections:
           wśród klientów.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/portrait-smiling-young-woman-with-glasses.jpg
           altText: Maria Walters
           styles:
             self:
