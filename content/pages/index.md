@@ -855,7 +855,7 @@ sections:
           name: Wybierz swój pakiet
           label: Zabieg
           hideLabel: true
-          placeholder: Your name
+          placeholder: Zabieg
           isRequired: true
           width: full
       elementId: contact-form
