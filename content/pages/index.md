@@ -437,7 +437,7 @@ sections:
           ocenę 4.9. Codziennie przyjmujemy więcej nowych klientów, a kalendarz
           Booksy wypełnia się błyskawicznie!”
         tagline: 'Opinia #1'
-        subtitle: 'John Doe, Company'
+        subtitle: 'Specjalista, Studio Cut&Style'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
