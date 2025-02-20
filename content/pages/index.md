@@ -699,7 +699,7 @@ sections:
         features:
           - 50 opinii w ciągu miesiąca
           - Ręcznie pisane komentarze
-          - Feature three
+          - Codzienne raportowanie postępów
           - Feature four
         image:
           type: ImageBlock
