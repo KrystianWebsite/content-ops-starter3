@@ -623,7 +623,10 @@ sections:
         type: FeaturedItem
       - title: Realizacja kampanii
         tagline: Autentyczne opinie prosto od wirtualnych klientów
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Nasz zespół wystawia rzetelne recenzje, podkreślając jakość i
+          unikatowy charakter usług. Dzięki temu profil zyskuje wiarygodność i
+          wyższą pozycję w Booksy.
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
