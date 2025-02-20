@@ -720,7 +720,7 @@ sections:
           - Realizacja do 40 dni roboczych
           - Opinie z opisem
           - Pozycjonowanie zabiegów
-          - ''
+          - Pozycjonowanie pracowników
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
