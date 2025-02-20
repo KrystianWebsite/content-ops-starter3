@@ -756,7 +756,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: 2400 zł
-        details: per month
+        details: Konkurencja zostaje w tyle
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
