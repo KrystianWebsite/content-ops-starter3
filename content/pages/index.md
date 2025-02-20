@@ -590,7 +590,7 @@ sections:
           współpracę, by stale utrzymać wysoką ocenę.
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/40790.jpg
           altText: Placeholder image
           styles:
             self:
