@@ -700,7 +700,7 @@ sections:
           - 50 opinii w ciągu miesiąca
           - Ręcznie pisane komentarze
           - Codzienne raportowanie postępów
-          - Feature four
+          - Monitorowanie wyników w Booksy
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
