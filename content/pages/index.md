@@ -236,7 +236,8 @@ sections:
 
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://res.cloudinary.com/dfbadk2ch/video/upload/v1740074115/zdjecie%20y/oczmhajdla9pwcb6prxy.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
