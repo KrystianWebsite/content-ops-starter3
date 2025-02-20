@@ -470,10 +470,11 @@ sections:
           naszego salonu!”
         tagline: Opinia 3
         subtitle: 'Manager, Salon GlamLook'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Każda pozytywna opinia to kolejny krok do budowania trwałego zaufania
+          wśród klientów.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
