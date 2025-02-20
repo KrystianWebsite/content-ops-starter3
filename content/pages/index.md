@@ -693,7 +693,7 @@ sections:
         actions:
           - type: Button
             label: Wybierz Essentials
-            url: ''
+            url: stupendous-mermaid-e96c00.netlify.app/
             icon: arrowRight
             iconPosition: right
             style: secondary
