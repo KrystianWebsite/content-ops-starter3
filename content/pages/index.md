@@ -155,7 +155,7 @@ sections:
     actions:
       - label: Poznaj ofertę
         altText: ''
-        url: /
+        url: '#cennik'
         showIcon: false
         icon: arrowRight
         iconPosition: right
