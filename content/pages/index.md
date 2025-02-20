@@ -771,7 +771,7 @@ sections:
           altText: Pricing plan 3
         actions:
           - type: Button
-            label: Contact us
+            label: Wybier Enterprise
             url: /
             icon: arrowRight
             iconPosition: right
