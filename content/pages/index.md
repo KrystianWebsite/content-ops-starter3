@@ -823,7 +823,7 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: "Wypełnij formularz i wybierz swój pakiet lub wpisz własną liczbę opinii, którą chcesz zamówić. Po otrzymaniu zgłoszenia skontaktujemy się z Tobą, aby ustalić szczegóły i przekazać instrukcje dotyczące płatności.\n\n\U0001F4E9 **Co dalej?**\n1️⃣ Wybierz pakiet lub podaj liczbę opinii, jaką chcesz otrzymać.\n2️⃣ Wypełnij swoje dane kontaktowe.\n3️⃣ Odezwiemy się do Ciebie z potwierdzeniem i instrukcją płatności.\n4️⃣ Po zaksięgowaniu płatności rozpoczynamy realizację zamówienia!\n\n\U0001F680 **Zwiększ swoją widoczność w Booksy i przyciągnij więcej klientów już dziś!**\n\n\n\n"
     media:
       fields:
