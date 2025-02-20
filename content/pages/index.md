@@ -698,7 +698,7 @@ sections:
           accusantium doloremque.
         features:
           - 50 opinii w ciągu miesiąca
-          - Feature two
+          - Ręcznie pisane komentarze
           - Feature three
           - Feature four
         image:
