@@ -677,7 +677,7 @@ sections:
           opinii i rozbudowanym raportom.
 
         features:
-          - 100 opinii w ciągu miesiąca
+          - 100 opinii
           - Realizacja do 25 dni roboczych
           - Pełne raporty i wsparcie mailowe
           - Zwiększone zaangażowanie klientów
