@@ -763,7 +763,7 @@ sections:
         features:
           - 200 opinii w ciągu miesiąca
           - Dedykowany opiekun kampanii
-          - Feature three
+          - Priorytetowe wsparcie i analizy
           - Feature four
           - Feature five
         image:
