@@ -400,8 +400,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          „Dzięki Booksy Opinions w ciągu miesiąca podnieśliśmy naszą ocenę z
+          4.2 na 4.8, a telefony od nowych klientów przychodzą niemal non-stop.
+          To najlepsza decyzja, jaką mogliśmy podjąć!”
         tagline: Opinia 1
         subtitle: 'Maria Walters, Company'
         text: >-
