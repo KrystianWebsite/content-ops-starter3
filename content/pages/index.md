@@ -680,7 +680,7 @@ sections:
           - 100 opinii
           - Realizacja do 25 dni roboczych
           - Codzienne raportowanie działań
-          - Zwiększone zaangażowanie klientów
+          - Pozycjonowanie zabiegów
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
