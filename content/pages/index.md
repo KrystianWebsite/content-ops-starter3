@@ -404,7 +404,7 @@ sections:
           4.2 na 4.8, a telefony od nowych klientów przychodzą niemal non-stop.
           To najlepsza decyzja, jaką mogliśmy podjąć!”
         tagline: Opinia 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Specjalista, Salon BeautyZone'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
