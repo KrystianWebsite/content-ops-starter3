@@ -730,7 +730,7 @@ sections:
           accusantium doloremque.
         features:
           - 100 opinii w ciągu miesiąca
-          - Feature two
+          - Komentarze dopasowane do branży
           - Feature three
           - Feature four
         image:
