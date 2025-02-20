@@ -729,7 +729,7 @@ sections:
         actions:
           - type: Button
             label: Wybierz Professional
-            url: /
+            url: '#kontakt'
             icon: arrowRight
             iconPosition: right
             style: secondary
