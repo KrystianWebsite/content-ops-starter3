@@ -764,7 +764,7 @@ sections:
           - 200 opinii w ciągu miesiąca
           - Dedykowany opiekun kampanii
           - Priorytetowe wsparcie i analizy
-          - Feature four
+          - Pozycjonowanie na lokalnego lidera
           - Feature five
         image:
           type: ImageBlock
