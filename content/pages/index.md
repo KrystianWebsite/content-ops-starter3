@@ -497,8 +497,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          „Wreszcie udało się przekonać wahających się gości do skorzystania z
+          naszych zabiegów. Dzięki licznym recenzjom nie mamy już wolnych
+          terminów!”
         tagline: Opinia 4
         subtitle: 'Maria Walters, Company'
         text: >-
