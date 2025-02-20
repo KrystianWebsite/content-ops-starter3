@@ -462,7 +462,8 @@ sections:
           rozpoznawalności w okolicy.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: >-
+            /images/handsome-caucasian-man-wearing-casual-clothes-glasses-with-happy-cool-smile-face-lucky-person.jpg
           altText: Maria Walters
           styles:
             self:
