@@ -876,7 +876,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Skontaktuj się z nami
+      label: i
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
