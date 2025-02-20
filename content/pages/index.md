@@ -565,7 +565,7 @@ sections:
           wyższą pozycję w Booksy.
         text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/2493542.jpg
           altText: Placeholder image
           styles:
             self:
