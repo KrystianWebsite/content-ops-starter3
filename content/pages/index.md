@@ -531,7 +531,7 @@ sections:
       - title: >-
           "Design can be art. Design can be aesthetics. Design is so simple,
           that's why it is so complicated."
-        tagline: Testimonial 5
+        tagline: Opinia 5
         subtitle: 'Jane Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
