@@ -693,7 +693,7 @@ sections:
             iconPosition: right
             style: primary
             showIcon: false
-        colors: bg-dark-fg-light
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
