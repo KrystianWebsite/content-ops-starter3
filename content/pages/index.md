@@ -693,7 +693,7 @@ sections:
         actions:
           - type: Button
             label: Wybierz Essentials
-            url: /
+            url: ''
             icon: arrowRight
             iconPosition: right
             style: secondary
