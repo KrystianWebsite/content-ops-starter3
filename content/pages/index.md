@@ -366,7 +366,7 @@ sections:
           przyspieszyło rozwój firmy.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/portrait-young-happy-indian-man-smiling-outdoors.jpg
           altText: John Doe
           styles:
             self:
