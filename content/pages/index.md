@@ -596,7 +596,7 @@ sections:
       type: TitleBlock
     subtitle: 'Oto nasz sprawdzony proces, który gwarantuje wzrost renomy w Booksy'
     items:
-      - title: Feature Item One
+      - title: Analiza potrzeb
         tagline: 'Wiesz, czego potrzebuje Twój salon?'
         subtitle: This is the item subtitle
         text: |
