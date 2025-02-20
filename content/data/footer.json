@@ -19,7 +19,7 @@
             },
             {
                 "label": "Pricing",
-                "url": "/pricing",
+                "url": "#cennik",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
