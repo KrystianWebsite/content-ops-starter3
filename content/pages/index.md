@@ -588,7 +588,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: 'Oto nasz sprawdzony proces, który gwarantuje wzrost renomy w Booksy'
+      text: Kroki do Sukcesu
       color: text-primary
       styles:
         self:
