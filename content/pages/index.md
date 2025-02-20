@@ -627,8 +627,7 @@ sections:
           Nasz zespół wystawia rzetelne recenzje, podkreślając jakość i
           unikatowy charakter usług. Dzięki temu profil zyskuje wiarygodność i
           wyższą pozycję w Booksy.
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
