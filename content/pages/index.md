@@ -641,7 +641,7 @@ sections:
           pierwszą falę zaufania w Booksy.
 
         features:
-          - 50 opinii w ciągu miesiąca
+          - 50 opinii
           - Realizacja do 14 dni roboczych
           - Codzienne raportowanie postępów
           - Opinie z opisem
