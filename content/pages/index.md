@@ -679,7 +679,7 @@ sections:
         features:
           - 100 opinii
           - Realizacja do 25 dni roboczych
-          - Pełne raporty i wsparcie mailowe
+          - Codzienne raportowanie działań
           - Zwiększone zaangażowanie klientów
         image:
           type: ImageBlock
