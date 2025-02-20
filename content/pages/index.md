@@ -765,7 +765,7 @@ sections:
         actions:
           - type: Button
             label: Wybierz Enterprise
-            url: /
+            url: '#kontakt'
             icon: arrowRight
             iconPosition: right
             style: secondary
