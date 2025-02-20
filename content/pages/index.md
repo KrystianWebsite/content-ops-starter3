@@ -566,10 +566,11 @@ sections:
           naszą sytuację!”
         tagline: Opinia 6
         subtitle: 'Menadżer, Studio NatureSpa'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Przekonaliśmy się, jak wielką moc mają rzetelne komentarze w serwisie
+          Booksy i chętnie polecamy tę usługę innym.
+
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
