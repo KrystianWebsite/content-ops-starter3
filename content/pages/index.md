@@ -731,7 +731,7 @@ sections:
         features:
           - 100 opinii w ciągu miesiąca
           - Komentarze dopasowane do branży
-          - Feature three
+          - Pełne raporty i wsparcie mailowe
           - Feature four
         image:
           type: ImageBlock
