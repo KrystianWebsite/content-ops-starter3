@@ -657,7 +657,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: contact-form
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
