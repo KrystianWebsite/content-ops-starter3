@@ -687,7 +687,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Wybierz optymalny pakiet dla swojego salonu
     plans:
       - type: PricingPlan
         title: Developers
