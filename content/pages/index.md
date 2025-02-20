@@ -588,7 +588,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: 'Oto nasz sprawdzony proces, który gwarantuje wzrost renomy w Booksy'
       color: text-primary
       styles:
         self:
