@@ -691,7 +691,7 @@ sections:
             url: '#kontakt'
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             showIcon: false
         colors: bg-neutral-fg-dark
         styles:
