@@ -644,7 +644,7 @@ sections:
           - 50 opinii w ciągu miesiąca
           - Realizacja do 14 dni roboczych
           - Codzienne raportowanie postępów
-          - Monitorowanie wyników w Booksy
+          - Opinie z opisem
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
