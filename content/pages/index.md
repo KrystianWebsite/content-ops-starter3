@@ -534,10 +534,11 @@ sections:
           ocenie w Booksy przy umawianiu wizyt.”
         tagline: Opinia 5
         subtitle: 'Właściciel, Barber Elite'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Bez wątpienia usługa recenzji przyczyniła się do uzyskania większej
+          rozpoznawalności w okolicy.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
