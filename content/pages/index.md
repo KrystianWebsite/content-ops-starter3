@@ -540,7 +540,7 @@ sections:
           plan na miarę Twoich oczekiwań.
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/20945194.jpg
           altText: Placeholder Image
           styles:
             self:
