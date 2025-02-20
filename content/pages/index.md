@@ -742,6 +742,7 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
+        elementId: cennik
       - type: PricingPlan
         title: Elite
         price: 2400 zł
