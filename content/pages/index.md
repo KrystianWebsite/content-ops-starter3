@@ -728,9 +728,12 @@ sections:
         title: Professional
         price: 1400 zł
         details: 'Idealny, by zostać liderem w okolicy'
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Idealny, by wyróżnić się na rynku i pokonać lokalną konkurencję.
+
+          Zapewnia większe zaangażowanie klientów dzięki szybszemu przyrostowi
+          opinii i rozbudowanym raportom.
+
         features:
           - 100 opinii w ciągu miesiąca
           - Komentarze dopasowane do branży
