@@ -719,7 +719,7 @@ sections:
           - 200 opinii
           - Realizacja do 40 dni roboczych
           - Opinie z opisem
-          - Pozycjonowanie na lokalnego lidera
+          - Pozycjonowanie zabiegów
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
