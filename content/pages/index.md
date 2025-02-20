@@ -692,7 +692,7 @@ sections:
       - type: PricingPlan
         title: Essentials
         price: 800 zł
-        details: No credit card required
+        details: Najlepszy wybór dla startujących
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
