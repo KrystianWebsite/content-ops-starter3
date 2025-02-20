@@ -529,8 +529,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          „Od momentu, gdy zaczęły się pojawiać nowe opinie, nasza średnia
+          wzrosła z 4.3 do 4.9. Klienci coraz częściej wspominają o wysokiej
+          ocenie w Booksy przy umawianiu wizyt.”
         tagline: Opinia 5
         subtitle: 'Jane Walters, Company'
         text: >-
