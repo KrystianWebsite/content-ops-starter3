@@ -732,7 +732,7 @@ sections:
           - 100 opinii w ciągu miesiąca
           - Komentarze dopasowane do branży
           - Pełne raporty i wsparcie mailowe
-          - Feature four
+          - Zwiększone zaangażowanie klientów
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
