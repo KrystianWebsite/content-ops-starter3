@@ -642,7 +642,7 @@ sections:
 
         features:
           - 50 opinii w ciągu miesiąca
-          - Ręcznie pisane komentarze
+          - Realizacja do 14 dni roboczych
           - Codzienne raportowanie postępów
           - Monitorowanie wyników w Booksy
         image:
