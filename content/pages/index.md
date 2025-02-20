@@ -40,7 +40,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/customer-experience-creative-collage.jpg
+      url: /images/3885964.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
