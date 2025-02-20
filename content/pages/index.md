@@ -433,8 +433,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          „Kampania opinii pozwoliła nam w krótkim czasie zbudować stabilną
+          ocenę 4.9. Codziennie przyjmujemy więcej nowych klientów, a kalendarz
+          Booksy wypełnia się błyskawicznie!”
         tagline: 'Opinia #1'
         subtitle: 'John Doe, Company'
         text: >-
