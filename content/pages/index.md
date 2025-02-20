@@ -855,7 +855,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Dodatkowe informacje
           width: full
           type: TextareaFormControl
       elementId: contact-form
