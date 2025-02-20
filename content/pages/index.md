@@ -716,7 +716,7 @@ sections:
           wsparcie naszego zespołu.
 
         features:
-          - 200 opinii w ciągu miesiąca
+          - 200 opinii
           - Realizacja do 40 dni roboczych
           - Priorytetowe wsparcie i analizy
           - Pozycjonowanie na lokalnego lidera
