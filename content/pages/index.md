@@ -334,7 +334,7 @@ sections:
           polecamy każdemu, kto chce wyróżnić się w Booksy.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/medium-shot-smiley-guy-with-beard-headphones.jpg
           altText: Maria Walters
           styles:
             self:
