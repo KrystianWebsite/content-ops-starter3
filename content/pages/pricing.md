@@ -2,37 +2,42 @@
 title: Pricing
 slug: pricing
 sections:
-  - title:
-      text: Flexible Pricing
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: Elastyczny Cennik
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Wybierz optymalny pakiet dla swojego salonu
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - type: PricingPlan
+        title: Essentials
+        price: 800 zł
+        details: Najlepszy wybór dla startujących
+        description: >+
+          Najlepszy wybór na start, by sprawdzić skuteczność naszej usługi.
+
+          Pozwala stopniowo zwiększać liczbę pozytywnych opinii i budować
+          pierwszą falę zaufania w Booksy.
+
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 50 opinii w ciągu miesiąca
+          - Ręcznie pisane komentarze
+          - Codzienne raportowanie postępów
+          - Monitorowanie wyników w Booksy
         image:
+          type: ImageBlock
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
-          type: ImageBlock
         actions:
-          - label: Try for free
+          - type: Button
+            label: Wybierz Essentials
             url: /
             icon: arrowRight
             iconPosition: right
             style: secondary
-            type: Button
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -42,29 +47,32 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-        type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - type: PricingPlan
+        title: Professional
+        price: 1400 zł
+        details: 'Idealny, by zostać liderem w okolicy'
+        description: >+
+          Idealny, by wyróżnić się na rynku i pokonać lokalną konkurencję.
+
+          Zapewnia większe zaangażowanie klientów dzięki szybszemu przyrostowi
+          opinii i rozbudowanym raportom.
+
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 100 opinii w ciągu miesiąca
+          - Komentarze dopasowane do branży
+          - Pełne raporty i wsparcie mailowe
+          - Zwiększone zaangażowanie klientów
         image:
+          type: ImageBlock
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
-          type: ImageBlock
         actions:
-          - label: Try for free
+          - type: Button
+            label: Wybierz Professional
             url: /
             icon: arrowRight
             iconPosition: right
             style: secondary
-            type: Button
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -74,30 +82,33 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+      - type: PricingPlan
+        title: Elite
+        price: 2400 zł
+        details: Konkurencja zostaje w tyle
+        description: >+
+          Stworzony dla najbardziej wymagających salonów, które chcą zdominować
+          ranking w Booksy.
+
+          Zapewnia maksymalną liczbę recenzji w krótkim czasie oraz priorytetowe
+          wsparcie naszego zespołu.
+
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - 200 opinii w ciągu miesiąca
+          - Dedykowany opiekun kampanii
+          - Priorytetowe wsparcie i analizy
+          - Pozycjonowanie na lokalnego lidera
         image:
+          type: ImageBlock
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
-          type: ImageBlock
         actions:
-          - label: Contact us
+          - type: Button
+            label: Wybierz Enterprise
             url: /
             icon: arrowRight
             iconPosition: right
             style: secondary
-            type: Button
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -107,14 +118,12 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-        type: PricingPlan
     colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: PricingSection
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
