@@ -678,7 +678,7 @@ sections:
 
         features:
           - 100 opinii w ciągu miesiąca
-          - Komentarze dopasowane do branży
+          - Realizacja do 25 dni roboczych
           - Pełne raporty i wsparcie mailowe
           - Zwiększone zaangażowanie klientów
         image:
