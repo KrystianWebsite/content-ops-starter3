@@ -1,14 +1,14 @@
 ---
-title: Case study 1
+title: Studio Beauty & Shine
 slug: case-study-1
-date: '2022-01-05'
+date: '2024-11-22'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/5638007.jpg
   altText: Case study 1
   styles:
     self:
@@ -25,36 +25,7 @@ bottomSections:
           - pb-7
           - pr-7
     type: DividerSection
-  - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
-        image:
-          url: /images/telus-logo.svg
-          altText: Company logo
-          styles:
-            self:
-              margin:
-                - ml-3
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderStyle: none
-            borderWidth: 0
-            borderRadius: none
-            flexDirection: row
-        type: FeaturedItem
+  - items: []
     variant: small-list
     colors: bg-light-fg-dark
     styles:
@@ -88,14 +59,46 @@ styles:
 type: PostLayout
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Studio Beauty & Shine to renomowany salon kosmetyczny, który zawsze stawia na wysoką jakość obsługi. Jednak w pewnym momencie właścicielka zauważyła, że pomimo bogatej oferty i wysoko wykwalifikowanego personelu, liczba rezerwacji nie odzwierciedlała pełnego potencjału salonu. Szukano więc rozwiązania, które pomogłoby zwiększyć zaufanie nowych klientek i poprawić wyniki w Booksy.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+Wyzwanie: Niewystarczająca liczba recenzji
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Zbyt mało opinii** – klienci nie mieli pewności, czy warto skorzystać właśnie z tego salonu, skoro brakowało bieżących recenzji.
 
-![](/images/img-placeholder.svg)
+*   **Brak regularnych ocen** – dłuższe przerwy w wystawianiu opinii powodowały wrażenie, że salon nie jest aktywny.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Duża konkurencja** w okolicy – nawet drobne różnice w ocenie decydowały o tym, który salon wybierały klientki przeglądające Booksy.
+
+
+
+Rozwiązanie: Profesjonalna kampania z Booksy Opinions
+
+Studio Beauty & Shine zdecydowało się na współpracę z **Booksy Opinions**, by skorzystać z sieci wirtualnych tajemniczych klientów, którzy:
+
+1.  **Regularnie** rezerwowali wizyty i wystawiali opinie,
+
+2.  **Podkreślali** najlepsze cechy salonu (profesjonalne zabiegi, miłą atmosferę, indywidualne podejście),
+
+3.  **Tworzyli** naturalne, rzetelne recenzje, które w krótkim czasie podniosły oceny i zwiększyły wiarygodność w oczach nowych klientów.
+
+
+
+Efekty kampanii
+
+> „Dzięki opiniom od Booksy Opinions nasza widoczność w Booksy wzrosła błyskawicznie – w ciągu kilku tygodni zaobserwowaliśmy wyraźny przyrost nowych rezerwacji, a średnia ocena sięgnęła niemal 5 gwiazdek!”
+
+*   **+40% więcej rezerwacji** w ciągu trzech miesięcy: wyższa średnia ocena i rosnąca liczba autentycznych recenzji przyciągnęły niezdecydowane klientki.
+
+*   **Większa aktywność** w Booksy: pojawiające się systematycznie opinie pokazywały, że salon jest stale oblegany i chętnie wybierany przez gości.
+
+*   **Lepsza reputacja** online: zadowolone klientki częściej polecały Studio Beauty & Shine, co dodatkowo rozkręcało marketing szeptany i pomagało wyprzedzić lokalną konkurencję.
+
+
+
+Podsumowanie
+
+Współpraca z Booksy Opinions pozwoliła salonowi Beauty & Shine zbudować silniejszą renomę oraz przyciągnąć więcej klientek w relatywnie krótkim czasie. **Skupienie się na regularnych, wiarygodnych opiniach** okazało się skutecznym narzędziem marketingowym, które przełożyło się na wyższą pozycję w Booksy i zauważalny wzrost dochodów.
+
+> **Chcesz odnieść podobny sukces?**
+> Skontaktuj się z **Booksy Opinions** i dowiedz się, jak wirtualni tajemniczy klienci pomogą Twojemu salonowi wybić się na szczyt rankingu Booksy.
+
