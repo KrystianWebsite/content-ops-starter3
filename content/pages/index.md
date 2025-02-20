@@ -430,7 +430,7 @@ sections:
           szybciej, niż się spodziewaliśmy.
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/man-listening-music-by-wireless-earphones.jpg
           altText: Maria Walters
           styles:
             self:
