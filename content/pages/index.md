@@ -681,7 +681,7 @@ sections:
           - Realizacja do 25 dni roboczych
           - Codzienne raportowanie działań
           - Pozycjonowanie zabiegów
-          - ''
+          - Opinie z opisem
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
