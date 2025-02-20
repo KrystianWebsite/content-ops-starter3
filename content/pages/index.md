@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Poznaj zalety naszej usugi
+    subtitle: Poznaj zalety naszej usługi
     items:
       - type: FeaturedItem
         title: 95%
