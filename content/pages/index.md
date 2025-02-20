@@ -724,7 +724,7 @@ sections:
       - type: PricingPlan
         title: Professional
         price: 1400 zł
-        details: per month
+        details: 'Idealny, by zostać liderem w okolicy'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
