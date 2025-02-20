@@ -853,7 +853,7 @@ sections:
           type: TextareaFormControl
         - type: TextFormControl
           name: Wybierz swój pakiet
-          label: Name
+          label: Zabieg
           hideLabel: true
           placeholder: Your name
           isRequired: true
