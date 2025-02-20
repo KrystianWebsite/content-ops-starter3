@@ -841,7 +841,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Twój email
           isRequired: true
           width: full
           type: EmailFormControl
