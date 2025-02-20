@@ -301,7 +301,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/ewv7swns67mosdhy4nqq.png
+      url: /images/6604.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
