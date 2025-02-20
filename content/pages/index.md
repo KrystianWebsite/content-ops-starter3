@@ -717,7 +717,7 @@ sections:
 
         features:
           - 200 opinii w ciągu miesiąca
-          - Dedykowany opiekun kampanii
+          - Realizacja do 40 dni roboczych
           - Priorytetowe wsparcie i analizy
           - Pozycjonowanie na lokalnego lidera
         image:
