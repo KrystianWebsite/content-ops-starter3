@@ -820,7 +820,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Skontaktuj się z namI
+      text: Skontaktuj się z nami
       color: text-dark
       type: TitleBlock
     subtitle: ''
