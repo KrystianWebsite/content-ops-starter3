@@ -597,7 +597,7 @@ sections:
     subtitle: 'Oto nasz sprawdzony proces, który gwarantuje wzrost renomy w Booksy'
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: 'Wiesz, czego potrzebuje Twój salon?'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
