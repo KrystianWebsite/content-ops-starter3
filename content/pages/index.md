@@ -621,7 +621,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Realizacja kampanii
         tagline: Autentyczne opinie prosto od wirtualnych klientów
         subtitle: This is the item subtitle
         text: |
