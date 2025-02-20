@@ -32,7 +32,7 @@ sections:
         type: Button
       - label: Zamów pakiet opinii
         altText: ''
-        url: /
+        url: '#kontakt'
         showIcon: true
         icon: arrowRight
         iconPosition: right
