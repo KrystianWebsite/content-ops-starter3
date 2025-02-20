@@ -824,11 +824,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Wypełnij formularz i wybierz swój pakiet lub wpisz własną liczbę opinii, którą chcesz zamówić. Po otrzymaniu zgłoszenia skontaktujemy się z Tobą, aby ustalić szczegóły i przekazać instrukcje dotyczące płatności.\n\n\U0001F4E9 **Co dalej?**\n1️⃣ Wybierz pakiet lub podaj liczbę opinii, jaką chcesz otrzymać.\n2️⃣ Wypełnij swoje dane kontaktowe.\n3️⃣ Odezwiemy się do Ciebie z potwierdzeniem i instrukcją płatności.\n4️⃣ Po zaksięgowaniu płatności rozpoczynamy realizację zamówienia!\n\n\U0001F680 **Zwiększ swoją widoczność w Booksy i przyciągnij więcej klientów już dziś!**\n\n\n\n"
     media:
       fields:
         - name: imię
