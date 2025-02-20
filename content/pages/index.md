@@ -61,7 +61,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Najważniejsze korzysci
+      text: Najważniejsze korzyści
       color: text-dark
       styles:
         self:
