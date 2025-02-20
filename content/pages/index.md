@@ -646,7 +646,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Monitorowanie efektów
         tagline: 'Zobacz, jak rośnie Twoja popularność'
         subtitle: This is the item subtitle
         text: >
