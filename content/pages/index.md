@@ -693,9 +693,12 @@ sections:
         title: Essentials
         price: 800 zł
         details: Najlepszy wybór dla startujących
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Najlepszy wybór na start, by sprawdzić skuteczność naszej usługi.
+
+          Pozwala stopniowo zwiększać liczbę pozytywnych opinii i budować
+          pierwszą falę zaufania w Booksy.
+
         features:
           - 50 opinii w ciągu miesiąca
           - Ręcznie pisane komentarze
