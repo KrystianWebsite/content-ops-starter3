@@ -533,7 +533,7 @@ sections:
           wzrosła z 4.3 do 4.9. Klienci coraz częściej wspominają o wysokiej
           ocenie w Booksy przy umawianiu wizyt.”
         tagline: Opinia 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: 'Właściciel, Barber Elite'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
