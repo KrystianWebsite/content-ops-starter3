@@ -761,7 +761,7 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
         features:
-          - Feature one
+          - 200 opinii w ciągu miesiąca
           - Feature two
           - Feature three
           - Feature four
