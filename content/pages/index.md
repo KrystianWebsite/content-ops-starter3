@@ -598,7 +598,10 @@ sections:
     items:
       - title: Analiza potrzeb
         tagline: 'Wiesz, czego potrzebuje Twój salon?'
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Przeprowadzamy krótką analizę profilu w Booksy, by określić liczbę
+          opinii i tempo dodawania recenzji. Dzięki temu tworzymy indywidualny
+          plan na miarę Twoich oczekiwań.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
