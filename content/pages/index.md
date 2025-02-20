@@ -438,10 +438,11 @@ sections:
           Booksy wypełnia się błyskawicznie!”
         tagline: 'Opinia #1'
         subtitle: 'Specjalista, Studio Cut&Style'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          To zdecydowanie wyróżniło nas na tle lokalnej konkurencji i
+          przyspieszyło rozwój firmy.
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
