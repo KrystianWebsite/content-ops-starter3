@@ -564,7 +564,7 @@ sections:
           „Byliśmy na granicy zamknięcia, a teraz każdego tygodnia przybywa nam
           kilkanaście nowych klientów. Booksy Opinions kompletnie odmieniło
           naszą sytuację!”
-        tagline: 'Opinia #5'
+        tagline: Opinia 6
         subtitle: 'Menadżer, Studio NatureSpa'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
