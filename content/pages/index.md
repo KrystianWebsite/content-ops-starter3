@@ -693,7 +693,7 @@ sections:
         actions:
           - type: Button
             label: Wybierz Essentials
-            url: Skontaktuj się z nami
+            url: contact-form
             icon: arrowRight
             iconPosition: right
             style: secondary
