@@ -469,7 +469,7 @@ sections:
           rezerwacji. Booksy Opinions zrobiło ogromną różnicę w postrzeganiu
           naszego salonu!”
         tagline: Opinia 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Manager, Salon GlamLook'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
