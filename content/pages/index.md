@@ -718,7 +718,7 @@ sections:
         features:
           - 200 opinii
           - Realizacja do 40 dni roboczych
-          - Priorytetowe wsparcie i analizy
+          - Opinie z opisem
           - Pozycjonowanie na lokalnego lidera
         image:
           type: ImageBlock
