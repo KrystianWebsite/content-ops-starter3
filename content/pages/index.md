@@ -405,10 +405,12 @@ sections:
           To najlepsza decyzja, jaką mogliśmy podjąć!”
         tagline: Opinia 1
         subtitle: 'Specjalista, Salon BeautyZone'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Nasza ocena stała się dowodem wysokiej jakości usług, a rzetelne
+          recenzje zdecydowanie przyspieszyły rozwój firmy. Bez wątpienia
+          polecamy każdemu, kto chce wyróżnić się w Booksy.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
