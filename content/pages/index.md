@@ -690,7 +690,7 @@ sections:
             label: Wybierz Professional
             url: '#kontakt'
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             showIcon: false
         colors: bg-neutral-fg-dark
