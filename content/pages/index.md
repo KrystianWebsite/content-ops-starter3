@@ -845,12 +845,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
         - type: TextFormControl
           name: Wybierz swój pakiet
           label: Pakiet
@@ -858,6 +852,12 @@ sections:
           placeholder: Pakiet
           isRequired: true
           width: full
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+          type: TextareaFormControl
       elementId: contact-form
       styles:
         self:
