@@ -1,6 +1,6 @@
 export default function ContactPage() {
   return (
-    <form
+    <form netlify
       name="contact"
       method="POST"
       data-netlify="true"
