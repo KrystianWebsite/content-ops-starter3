@@ -691,7 +691,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Essentials
-        price: Free
+        price: 800 zł netto
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
