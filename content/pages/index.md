@@ -397,7 +397,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Co nasi klienci mówią o nas
     items:
       - title: >-
           „Dzięki Booksy Opinions w ciągu miesiąca podnieśliśmy naszą ocenę z
