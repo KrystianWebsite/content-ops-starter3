@@ -763,9 +763,13 @@ sections:
         title: Enterprise
         price: 2400 zł
         details: Konkurencja zostaje w tyle
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >+
+          Stworzony dla najbardziej wymagających salonów, które chcą zdominować
+          ranking w Booksy.
+
+          Zapewnia maksymalną liczbę recenzji w krótkim czasie oraz priorytetowe
+          wsparcie naszego zespołu.
+
         features:
           - 200 opinii w ciągu miesiąca
           - Dedykowany opiekun kampanii
