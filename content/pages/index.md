@@ -771,7 +771,7 @@ sections:
           altText: Pricing plan 3
         actions:
           - type: Button
-            label: Wybier Enterprise
+            label: Wybierz Enterprise
             url: /
             icon: arrowRight
             iconPosition: right
