@@ -203,7 +203,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Poznaj historię naszych klientów
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
