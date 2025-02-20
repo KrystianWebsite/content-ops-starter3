@@ -648,7 +648,10 @@ sections:
         type: FeaturedItem
       - title: Monitorowanie efektów
         tagline: 'Zobacz, jak rośnie Twoja popularność'
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Otrzymujesz regularne raporty o postępach i możesz na bieżąco
+          obserwować wzrost liczby rezerwacji. Jeśli chcesz, rozwijamy
+          współpracę, by stale utrzymać wysoką ocenę.
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
