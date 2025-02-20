@@ -561,8 +561,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          „Byliśmy na granicy zamknięcia, a teraz każdego tygodnia przybywa nam
+          kilkanaście nowych klientów. Booksy Opinions kompletnie odmieniło
+          naszą sytuację!”
         tagline: 'Opinia #5'
         subtitle: 'Jane Doe, Company'
         text: >-
