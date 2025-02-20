@@ -436,7 +436,7 @@ sections:
           „Kampania opinii pozwoliła nam w krótkim czasie zbudować stabilną
           ocenę 4.9. Codziennie przyjmujemy więcej nowych klientów, a kalendarz
           Booksy wypełnia się błyskawicznie!”
-        tagline: 'Opinia #1'
+        tagline: Opinia 2
         subtitle: 'Specjalista, Studio Cut&Style'
         text: >+
 
