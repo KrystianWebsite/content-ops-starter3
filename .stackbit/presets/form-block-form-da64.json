@@ -1,0 +1,82 @@
+{
+    "model": "FormBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "form",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "cennik"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "fields": [
+                    {
+                        "$$type": "TextFormControl",
+                        "name": "imię",
+                        "label": "Name",
+                        "hideLabel": true,
+                        "placeholder": "Twoje imię",
+                        "isRequired": true,
+                        "width": "full"
+                    },
+                    {
+                        "$$type": "EmailFormControl",
+                        "name": "email",
+                        "label": "Email",
+                        "hideLabel": true,
+                        "placeholder": "Twój email",
+                        "isRequired": true,
+                        "width": "full"
+                    },
+                    {
+                        "$$type": "TextFormControl",
+                        "name": "Wybierz swój pakiet",
+                        "label": "Pakiet",
+                        "hideLabel": true,
+                        "placeholder": "Pakiet",
+                        "isRequired": true,
+                        "width": "full"
+                    },
+                    {
+                        "$$type": "TextareaFormControl",
+                        "name": "message",
+                        "label": "Message",
+                        "hideLabel": true,
+                        "placeholder": "Dodatkowe informacje",
+                        "isRequired": null,
+                        "width": "full"
+                    }
+                ],
+                "submitButton": {
+                    "$$type": "SubmitButtonFormControl",
+                    "label": "Submit",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": null
+                },
+                "elementId": "contact-form",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-6",
+                            "pb-6",
+                            "pl-6",
+                            "pr-6"
+                        ],
+                        "borderColor": "border-dark",
+                        "borderStyle": "solid",
+                        "borderWidth": 1,
+                        "borderRadius": "large"
+                    }
+                }
+            },
+            "thumbnail": "images/form-block-form-da64.png"
+        }
+    ]
+}
