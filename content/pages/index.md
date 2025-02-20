@@ -762,7 +762,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - 200 opinii w ciągu miesiąca
-          - Feature two
+          - Dedykowany opiekun kampanii
           - Feature three
           - Feature four
           - Feature five
