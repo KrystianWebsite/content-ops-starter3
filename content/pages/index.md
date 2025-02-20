@@ -501,7 +501,7 @@ sections:
           naszych zabiegów. Dzięki licznym recenzjom nie mamy już wolnych
           terminów!”
         tagline: Opinia 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Obsługa, Beauty&Soul'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
