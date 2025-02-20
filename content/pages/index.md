@@ -565,7 +565,7 @@ sections:
           kilkanaście nowych klientów. Booksy Opinions kompletnie odmieniło
           naszą sytuację!”
         tagline: 'Opinia #5'
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Menadżer, Studio NatureSpa'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
