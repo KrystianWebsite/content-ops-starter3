@@ -502,10 +502,11 @@ sections:
           terminów!”
         tagline: Opinia 4
         subtitle: 'Obsługa, Beauty&Soul'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Kontakt z Booksy Opinions był wzorowy, a efekty przyszły nawet
+          szybciej, niż się spodziewaliśmy.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
