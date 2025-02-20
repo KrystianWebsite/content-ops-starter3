@@ -690,7 +690,7 @@ sections:
     subtitle: Wybierz optymalny pakiet dla swojego salonu
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Essentials
         price: Free
         details: No credit card required
         description: >-
