@@ -594,7 +594,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: 'Oto nasz sprawdzony proces, który gwarantuje wzrost renomy w Booksy'
     items:
       - title: Feature Item One
         tagline: This is the tagline
