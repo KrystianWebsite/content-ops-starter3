@@ -495,7 +495,7 @@ sections:
           Booksy i chętnie polecamy tę usługę innym.
 
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/portrait-young-happy-indian-man-smiling-outdoors.jpg
           altText: Jane Doe
           styles:
             self:
