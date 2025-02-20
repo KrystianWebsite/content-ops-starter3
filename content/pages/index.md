@@ -820,7 +820,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: Skontaktuj się z namI
       color: text-dark
       type: TitleBlock
     subtitle: ''
