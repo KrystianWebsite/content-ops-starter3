@@ -692,7 +692,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
-            showIcon: true
+            showIcon: false
         colors: bg-neutral-fg-dark
         styles:
           self:
