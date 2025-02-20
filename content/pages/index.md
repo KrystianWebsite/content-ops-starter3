@@ -765,7 +765,6 @@ sections:
           - Dedykowany opiekun kampanii
           - Priorytetowe wsparcie i analizy
           - Pozycjonowanie na lokalnego lidera
-          - Feature five
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
